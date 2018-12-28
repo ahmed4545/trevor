@@ -4,4 +4,4 @@ prefix=t
 status=IDLE
 stayinchannel=true
 songinstatus=false
-gamelistening= المُوسيقى جميلة جدا
+game= المُوسيقى جميلة جدا
