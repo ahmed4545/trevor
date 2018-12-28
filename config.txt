@@ -4,4 +4,4 @@ prefix=t
 status=IDLE
 stayinchannel=true
 songinstatus=false
-game= Music is beautiful at times
+game listening= المُوسيقى جميلة جدا
