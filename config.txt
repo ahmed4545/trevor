@@ -1,6 +1,6 @@
 token= NTM2MjcyMzc2NjgyNTEyMzg0.DyUSvw.FB_Iz_jkktzPWAn_x2DnuAb9jA4
 owner= 533687343480307733
-prefix=n
+prefix=$$
 status=IDLE
 stayinchannel=true
 songinstatus=false
