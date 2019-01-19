@@ -1,7 +1,7 @@
-token= NTI4MjQ1NjgyODMwODM1NzEy.DwffEg.XNdUnoHojkM1IAjwhDoVlEatke4
-owner= 432864911920726034
-prefix=t
+token= NTM2MjcyMzc2NjgyNTEyMzg0.DyUSvw.FB_Iz_jkktzPWAn_x2DnuAb9jA4
+owner= 533687343480307733
+prefix=n
 status=IDLE
 stayinchannel=true
 songinstatus=false
-game= المُوسيقى جميلة جدا
+game= Music is beautiful at times
