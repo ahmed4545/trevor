@@ -1,6 +1,6 @@
-token= NTM2MjcyMzc2NjgyNTEyMzg0.DyUSvw.FB_Iz_jkktzPWAn_x2DnuAb9jA4
-owner= 533687343480307733
-prefix=$$
+token= NzAyMjEwNzEyMjM5MzQxNzI4.Xp8uxg.sftysdd7D50tVYvAVKs07FGqY4o
+owner= 543156125613424653
+prefix=o
 status=IDLE
 stayinchannel=true
 songinstatus=false
